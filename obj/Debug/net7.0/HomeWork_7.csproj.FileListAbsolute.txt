@@ -1,0 +1,14 @@
+G:\Geek\C#\seminars\HomeWork_7\obj\Debug\net7.0\HomeWork_7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Geek\C#\seminars\HomeWork_7\obj\Debug\net7.0\HomeWork_7.AssemblyInfoInputs.cache
+G:\Geek\C#\seminars\HomeWork_7\obj\Debug\net7.0\HomeWork_7.AssemblyInfo.cs
+G:\Geek\C#\seminars\HomeWork_7\obj\Debug\net7.0\HomeWork_7.csproj.CoreCompileInputs.cache
+G:\Geek\C#\seminars\HomeWork_7\bin\Debug\net7.0\HomeWork_7.exe
+G:\Geek\C#\seminars\HomeWork_7\bin\Debug\net7.0\HomeWork_7.deps.json
+G:\Geek\C#\seminars\HomeWork_7\bin\Debug\net7.0\HomeWork_7.runtimeconfig.json
+G:\Geek\C#\seminars\HomeWork_7\bin\Debug\net7.0\HomeWork_7.dll
+G:\Geek\C#\seminars\HomeWork_7\bin\Debug\net7.0\HomeWork_7.pdb
+G:\Geek\C#\seminars\HomeWork_7\obj\Debug\net7.0\HomeWork_7.dll
+G:\Geek\C#\seminars\HomeWork_7\obj\Debug\net7.0\refint\HomeWork_7.dll
+G:\Geek\C#\seminars\HomeWork_7\obj\Debug\net7.0\HomeWork_7.pdb
+G:\Geek\C#\seminars\HomeWork_7\obj\Debug\net7.0\HomeWork_7.genruntimeconfig.cache
+G:\Geek\C#\seminars\HomeWork_7\obj\Debug\net7.0\ref\HomeWork_7.dll
